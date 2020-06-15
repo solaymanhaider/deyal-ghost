@@ -1,0 +1,26 @@
+{
+    "name": "deyal-ghost",
+    "description": "A free ghost theme built specially for bengali blogs.",
+    "demo": "https://solaymanhaider",
+    "version": "1.0.0",
+    "engines": {
+        "ghost": ">=3.0.0",
+        "ghost-api": "v3"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Solayman Haider",
+        "email": "hello@solayman.net",
+        "url": "https://solayman.net"
+    },
+    "keywords": [
+        "ghost",
+        "theme",
+        "ghost-theme",
+        "deyal"
+    ],
+    "config": {
+        "posts_per_page": 6,
+        "image_sizes": {}
+    }
+}
