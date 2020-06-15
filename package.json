@@ -7,7 +7,7 @@
         "ghost": ">=3.0.0",
         "ghost-api": "v3"
     },
-    "license": "MIT",
+    "license": "GPL",
     "author": {
         "name": "Solayman Haider",
         "email": "hello@solayman.net",
